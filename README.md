@@ -60,6 +60,6 @@ Open to BI Analyst and Product Analyst roles.
 
 Email: dmitry.strungar@gmail.com  
 
-Telegram: @dmitry_strungar
+Telegram: https://t.me/@dmitry_strungar
 
 GitHub: https://github.com/dmitry-strungar
