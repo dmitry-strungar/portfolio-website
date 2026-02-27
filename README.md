@@ -19,6 +19,12 @@ https://github.com/dmitry-strungar/bank-deposit-bi-dashboard
 • Restaurant BI Dashboard (Power BI)  
 https://github.com/dmitry-strungar/restaurant-bi-analysis-dashboard
 
+• ABC Revenue & Contract Structure Analysis (Tableau)  
+https://github.com/dmitry-strungar/tableau-abc-revenue-dashboard
+
+• Game Analytics Dashboards (Tableau)    
+https://github.com/dmitry-strungar/video-game-market-analysis  
+
 ### SQL analytics
 • Construction company SQL analysis  
 https://github.com/dmitry-strungar/construction-company-sql-analysis
