@@ -9,28 +9,28 @@
 ## Ключевые проекты
 
 ### Продуктовая аналитика
-• WID Product Analytics — воронка, retention, монетизация  
+• WID Product Analytics: Воронка, Retention и Монетизация    
 https://github.com/dmitry-strungar/wid-product-analytics-funnel-retention-monetization
 
 ### BI-дашборды
-• Bank Deposit BI Dashboard (Power BI)  
+• BI-дашборд по банковским депозитам (Power BI)  
 https://github.com/dmitry-strungar/bank-deposit-bi-dashboard
 
-• Restaurant BI Dashboard (Power BI)  
+• BI-анализ сети ресторанов (Power BI)  
 https://github.com/dmitry-strungar/restaurant-bi-analysis-dashboard
 
-• ABC Revenue & Contract Structure Analysis (Tableau)  
+• Дашборд: ABC-анализ выручки и структуры контрактов (Tableau)  
 https://github.com/dmitry-strungar/tableau-abc-revenue-dashboard
 
-• Game Analytics Dashboards (Tableau)  
+• Дашборды игровой аналитики (Tableau)  
 https://github.com/dmitry-strungar/video-game-market-analysis  
 
 ### SQL-аналитика
-• Construction company SQL analysis  
+• Операционный анализ строительной компании  
 https://github.com/dmitry-strungar/construction-company-sql-analysis
 
 ### Python-аналитика
-• Taxi user behavior analysis  
+• Анализ поведения пользователей сервиса такси   
 https://github.com/dmitry-strungar/taxi-user-behavior-analysis
 
 ---
