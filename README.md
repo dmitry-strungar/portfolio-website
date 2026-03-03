@@ -13,7 +13,7 @@
 https://github.com/dmitry-strungar/wid-product-analytics-funnel-retention-monetization
 
 ### BI-дашборды
-• BI-дашборд по банковским депозитам (Power BI)  
+• BI-дашборды по банковским депозитам (Power BI)  
 https://github.com/dmitry-strungar/bank-deposit-bi-dashboard
 
 • BI-анализ сети ресторанов (Power BI)  
