@@ -1,18 +1,18 @@
-# Dmitry Strungar — BI Analyst Portfolio
+# Дмитрий Струнгарь — Портфолио BI-Аналитика
 
-Welcome to my BI and Product Analytics portfolio.
+Добро пожаловать в моё портфолио по BI и продуктовой аналитике.
 
-Here you can find my projects in SQL, Power BI, Tableau, and Python, focused on business metrics, dashboards, and analytical problem solving.
+Здесь представлены мои проекты на SQL, Power BI, Tableau и Python, ориентированные на бизнес-метрики, дашборды и решение аналитических задач.
 
 ---
 
-## Featured projects
+## Ключевые проекты
 
-### Product analytics
-• WID Product Analytics — funnel, retention, monetization  
+### Продуктовая аналитика
+• WID Product Analytics — воронка, retention, монетизация  
 https://github.com/dmitry-strungar/wid-product-analytics-funnel-retention-monetization
 
-### BI dashboards
+### BI-дашборды
 • Bank Deposit BI Dashboard (Power BI)  
 https://github.com/dmitry-strungar/bank-deposit-bi-dashboard
 
@@ -22,41 +22,41 @@ https://github.com/dmitry-strungar/restaurant-bi-analysis-dashboard
 • ABC Revenue & Contract Structure Analysis (Tableau)  
 https://github.com/dmitry-strungar/tableau-abc-revenue-dashboard
 
-• Game Analytics Dashboards (Tableau)    
+• Game Analytics Dashboards (Tableau)  
 https://github.com/dmitry-strungar/video-game-market-analysis  
 
-### SQL analytics
+### SQL-аналитика
 • Construction company SQL analysis  
 https://github.com/dmitry-strungar/construction-company-sql-analysis
 
-### Python analytics
+### Python-аналитика
 • Taxi user behavior analysis  
 https://github.com/dmitry-strungar/taxi-user-behavior-analysis
 
 ---
 
-## Skills
+## Навыки
 
 SQL (PostgreSQL)  
 Power BI  
 Tableau  
 Python  
 Excel  
-Product analytics  
-Business metrics  
-Dashboard development  
+Продуктовая аналитика  
+Бизнес-метрики  
+Разработка дашбордов  
 
 ---
 
-## About me
+## Обо мне
 
-Junior BI Analyst with practical experience in dashboard development, SQL analytics, and product metrics analysis.
+Junior BI-Аналитик с практическим опытом разработки дашбордов, SQL-аналитики и анализа продуктовых метрик.
 
-Open to BI Analyst and Product Analyst roles.
+Открыт к позициям BI Analyst и Product Analyst.
 
 ---
 
-## Contacts
+## Контакты
 
 Email: dmitry.strungar@gmail.com  
 
