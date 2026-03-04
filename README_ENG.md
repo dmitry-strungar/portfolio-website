@@ -52,8 +52,6 @@ Dashboard development
 
 Junior BI Analyst with practical experience in dashboard development, SQL analytics, and product metrics analysis.
 
-Open to BI Analyst and Product Analyst roles.
-
 ---
 
 ## Contacts
