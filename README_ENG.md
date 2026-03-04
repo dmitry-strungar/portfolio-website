@@ -35,6 +35,14 @@ https://github.com/dmitry-strungar/construction-company-sql-analysis
 • Taxi user behavior analysis  
 https://github.com/dmitry-strungar/taxi-user-behavior-analysis
 
+### About me
+• Detailed information about me  
+https://github.com/dmitry-strungar/about-me
+
+### Diploma of professional retraining
+• Diploma image and details about it  
+https://github.com/dmitry-strungar/bi-analyst-diploma-netology
+
 ---
 
 ## Skills
