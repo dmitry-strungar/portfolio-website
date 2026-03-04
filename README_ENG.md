@@ -2,7 +2,8 @@
 
 Welcome to my BI and Product Analytics portfolio.
 
-Here you can find my projects in SQL, Power BI, Tableau, and Python, focused on business metrics, dashboards, and analytical problem solving.
+Here you can find my projects in SQL, Power BI, Tableau, and Python, focused on business metrics, dashboards, and analytical problem solving.  
+My resume is also in this repository.
 
 ---
 
