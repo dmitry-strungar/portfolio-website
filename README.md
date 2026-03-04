@@ -35,6 +35,13 @@ https://github.com/dmitry-strungar/construction-company-sql-analysis
 • Анализ поведения пользователей сервиса такси   
 https://github.com/dmitry-strungar/taxi-user-behavior-analysis
 
+### Обо мне
+• Подробная информация обо мне  
+https://github.com/dmitry-strungar/about-me
+
+### Диплом о профессиональной переподготовке
+• Изображение диплома
+
 ---
 
 ## Навыки
