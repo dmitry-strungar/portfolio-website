@@ -50,6 +50,7 @@ https://github.com/dmitry-strungar/bi-analyst-diploma-netology
 SQL (PostgreSQL)  
 Power BI  
 Tableau  
+Yandex DataLens
 Python  
 Excel  
 Product analytics  
@@ -68,6 +69,6 @@ Junior BI Analyst with practical experience in dashboard development, SQL analyt
 
 Email: dmitry.strungar@gmail.com  
 
-Telegram: https://t.me/@dmitry_strungar
+Telegram: https://t.me/dmitry_strungar
 
 GitHub: https://github.com/dmitry-strungar
