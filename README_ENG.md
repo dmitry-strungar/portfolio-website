@@ -50,7 +50,7 @@ https://github.com/dmitry-strungar/bi-analyst-diploma-netology
 SQL (PostgreSQL)  
 Power BI  
 Tableau  
-Yandex DataLens
+Yandex DataLens  
 Python  
 Excel  
 Product analytics  
