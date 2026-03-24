@@ -53,7 +53,7 @@ Tableau
 Yandex DataLens  
 Python  
 Excel  
-Product analytics  
+Product analytics (conversion, retention, funnels)  
 Business metrics  
 Dashboard development  
 
