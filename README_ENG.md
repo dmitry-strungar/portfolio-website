@@ -1,4 +1,4 @@
-# Dmitry Strungar — BI Analyst Portfolio
+# Dmitry Strungar - BI Analyst Portfolio
 
 Welcome to my BI and Product Analytics portfolio.
 
@@ -61,7 +61,8 @@ Dashboard development
 
 ## About me
 
-Junior BI Analyst with practical experience in dashboard development, SQL analytics, and product metrics analysis.
+BI Analyst with practical experience in dashboard development, SQL analytics, and product metrics analysis.  
+I want to get my first professional job in data analytics, where I can apply data analysis and visualization tools to solve business problems and support decision making.
 
 ---
 
