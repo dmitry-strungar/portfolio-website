@@ -65,7 +65,7 @@ Dashboard development
 ## About me
 
 BI Analyst with practical experience in dashboard development, SQL analytics, and product metrics analysis.  
-I want to get my first professional job in data analytics, where I can apply data analysis and visualization tools to solve business problems and support decision making.
+I want to get a professional job in the field of data analytics, where I can apply data analysis and visualization tools to solve business problems and support decision making.  
 
 ---
 
