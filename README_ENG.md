@@ -74,5 +74,3 @@ I want to get a professional job in the field of data analytics, where I can app
 Email: dmitry.strungar@gmail.com  
 
 Telegram: https://t.me/dmitry_strungar
-
-GitHub: https://github.com/dmitry-strungar
