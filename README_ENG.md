@@ -21,6 +21,9 @@ https://github.com/dmitry-strungar/bank-deposit-bi-dashboard
 • Restaurant BI Dashboard (Power BI)  
 https://github.com/dmitry-strungar/restaurant-bi-analysis-dashboard
 
+• BI Dashboard: Russian Residential Real Estate Market (Power BI)  
+https://github.com/dmitry-strungar/russia-housing-market-analysis-bi
+
 • ABC Revenue & Contract Structure Analysis (Tableau)  
 https://github.com/dmitry-strungar/tableau-abc-revenue-dashboard
 
