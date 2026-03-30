@@ -42,7 +42,7 @@ https://github.com/dmitry-strungar/taxi-user-behavior-analysis
 • Подробная информация обо мне  
 https://github.com/dmitry-strungar/about-me
 
-### Диплом о профессиональной переподготовке
+### Диплом о профессиональной переподготовке (БУДЕТ ПОЛУЧЕН В БЛИЖАЙШЕЕ ВРЕМЯ)
 • Изображение диплома и подробности о нём  
 https://github.com/dmitry-strungar/bi-analyst-diploma-netology
 
